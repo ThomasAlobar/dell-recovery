@@ -76,6 +76,9 @@ dell-recovery (1.68somerville1) jammy; urgency=medium
 
 dell-recovery (1.68) focal; urgency=medium
 
+  [ Kai-Chuan Hsieh ]
+  * Don't install packages from external archive in prepare page (LP: #1993367)
+
   [ Alex Tu ]
   * support Intel and AMD dev board (Closes #138)
 
